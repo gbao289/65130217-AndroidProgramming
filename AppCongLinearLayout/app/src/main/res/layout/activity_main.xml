@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    tools:context=".MainActivity"
+    tools:ignore="OnClick">
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <TextView
+            android:text="So Thu 1"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/edtA"
+            android:layout_marginLeft="30dp"
+            android:layout_width="271dp"
+            android:layout_height="wrap_content">
+
+        </EditText>
+    </LinearLayout> <!--So Thu Nhat -->
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <TextView
+            android:text="So Thu 2"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/edtB"
+            android:layout_marginLeft="30dp"
+            android:layout_width="271dp"
+            android:layout_height="wrap_content">
+
+        </EditText>
+    </LinearLayout> <!--So Thu Hai -->
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <Button
+            android:id="@+id/btnCong"
+            android:text="Cong"
+            android:onClick="XuLyCong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </Button>
+
+        <Button
+            android:id="@+id/btnTru"
+            android:text="Tru"
+            android:onClick="XuLyTru"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </Button>
+
+        <Button
+            android:id="@+id/btnNhan"
+            android:text="Nhan"
+            android:onClick="XuLyNhan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </Button>
+
+        <Button
+            android:id="@+id/btnChia"
+            android:text="Chia"
+            android:onClick="XuLyChia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </Button>
+
+    </LinearLayout> <!--Cac Phep Tinh -->
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <TextView
+            android:text="Ket Qua"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <EditText
+            android:id="@+id/edtKQ"
+            android:layout_marginLeft="30dp"
+            android:layout_width="271dp"
+            android:layout_height="wrap_content">
+
+        </EditText>
+    </LinearLayout> <!--Ket Qua -->
+</LinearLayout>
