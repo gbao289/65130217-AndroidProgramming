@@ -71,21 +71,21 @@
                 android:id="@+id/btnCong"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="XuLyCong"
+
                 android:text="Cong"></Button>
 
             <Button
                 android:id="@+id/btnTru"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="XuLyTru"
+
                 android:text="Tru"></Button>
 
             <Button
                 android:id="@+id/btnNhan"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="XuLyNhan"
+
                 android:text="Nhan">
 
             </Button>
@@ -94,7 +94,7 @@
                 android:id="@+id/btnChia"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="XuLyChia"
+
                 android:text="Chia"></Button>
 
         </LinearLayout> <!--Cac Phep Tinh -->
