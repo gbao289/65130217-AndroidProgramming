@@ -16,28 +16,33 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 
 ## Nội dung thực hành
 
-### Tuần 1: Làm quen Android Studio
+### Bài tập 1: Làm quen Android Studio
 
 * Tạo project đầu tiên
 * Hello World
 * [Chi tiet bai tap](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.java)
-### Tuần 2: Layout cơ bản
+### Bài tập 2: Layout cơ bản
 
 * LinearLayout
 * ConstraintLayout
 * Thiết kế giao diện đơn giản
 
-### Tuần 3: Xử lý sự kiện
+### Bài tập 3: Xử lý sự kiện
 
 * Button click
 * EditText input
 * Toast message
 
-### Tuần 4: Ứng dụng Calculator
+### Bài tập 4: Ứng dụng Calculator
 
 * Xây dựng app tính toán cơ bản
 
-### Tuần 5: ListView
+### Bài tập 5: ListView
+
+* Hiển thị danh sách
+* Custom Adapter
+
+### Bài tập 6: Recycler View
 
 * Hiển thị danh sách
 * Custom Adapter
