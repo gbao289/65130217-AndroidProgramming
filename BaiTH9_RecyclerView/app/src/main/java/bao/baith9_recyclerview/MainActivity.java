@@ -43,8 +43,9 @@ public class MainActivity extends AppCompatActivity {
 
     ArrayList<LandScape> getDataForRecyclerView(){
         ArrayList<LandScape> dsDuLieu = new ArrayList<LandScape>();
-        LandScape l1 = new LandScape("flag_tower_of_hanoi","Cot co Ha Noi");
+        LandScape l1 = new LandScape("Cot Co Ha Noi","flag_tower_of_hanoi");
         dsDuLieu.add(l1);
+        dsDuLieu.add(new LandScape("Lăng Chủ tịch Hồ Chí Minh ","lang_chu_tich"));
         return dsDuLieu;
     }
 }

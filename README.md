@@ -57,7 +57,8 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 
 * Hiển thị danh sách
 * Custom Adapter
-
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/tree/main/BaiTH9_RecyclerView/app/src/main/java/bao/baith9_recyclerview)
+* ![alt text](image-6.png)
 ---
 
 ## Công nghệ sử dụng

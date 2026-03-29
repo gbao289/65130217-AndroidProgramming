@@ -32,7 +32,7 @@ public class LandScapeAdapter extends RecyclerView.Adapter<LandScapeAdapter.item
         View vItem = cai_bom.inflate(R.layout.item_land,parent, false);
         itemLandHolder viewHolderCreated = new itemLandHolder(vItem);
 
-        return viewHolderCreated;
+        return new itemLandHolder(vItem);
     }
 
     @Override
@@ -46,7 +46,7 @@ public class LandScapeAdapter extends RecyclerView.Adapter<LandScapeAdapter.item
         holder.tvCaption.setText(caption);
         String packageName = holder.itemView.getContext().getPackageName();
         //Lay id cho anh thong qua ten
-        int imageID = holder.itemView.getResources().getIdentifier(tenAnh,"mipmap",packageName);
+        int imageID = holder.itemView.getResources().getIdentifier(tenAnh,"drawable",packageName);
         holder.ivLandscape.setImageResource(imageID);
 
     }
