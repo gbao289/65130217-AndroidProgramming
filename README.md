@@ -52,7 +52,7 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 * [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/BaiTH7_dsmonan/app/src/main/java/bao/myapplication/MainActivity.java)
 * ![alt text](/Images/image-4.png)
 * [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/BaiTH8_TuyChinhLV/app/src/main/java/bao/myapplication/MainActivity.java)
-* ![alt text](/Images/image/image-5.png)
+* ![alt text](/Images/image-5.png)
 ### Bài tập 6: Recycler View
 
 * Hiển thị danh sách
