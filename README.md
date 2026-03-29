@@ -20,7 +20,8 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 
 * Tạo project đầu tiên
 * Hello World
-* [Chi tiet bai tap](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.java)
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.java)
+![alt text](image.png)
 ### Bài tập 2: Layout cơ bản
 
 * LinearLayout
