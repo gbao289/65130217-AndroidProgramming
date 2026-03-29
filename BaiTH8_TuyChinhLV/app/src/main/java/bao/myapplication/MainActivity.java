@@ -27,7 +27,10 @@ public class MainActivity extends AppCompatActivity {
         //Chuan bi luong du lieu
         ArrayList<MonAn> dsMonAn = new ArrayList<MonAn>();
         dsMonAn.add(new MonAn("Cơm tấm sườn", 25_000,"Cơm tấm sườn siêu ngon có cơm và miếng sườn",R.drawable.cts));
-        dsMonAn.add(new MonAn("Cơm tấm sườn", 35_000,"Cơm tấm sườn siêu ngon có cơm và miếng sườn",R.drawable.cg));
+        dsMonAn.add(new MonAn("Cơm tấm sườn trứng", 35_000,"Cơm tấm sườn siêu ngon có cơm và miếng sườn",R.drawable.ctst));
+        dsMonAn.add(new MonAn("Cơm gà", 35_000,"Cơm có hương vị gà không có gà ",R.drawable.cg));
+        dsMonAn.add(new MonAn("Cơm tấm đặc biệt", 70_000,"Cơm tấm đặc biệt giá x2 nhưng đồ ăn vẫn vậy",R.drawable.ctdb));
+        dsMonAn.add(new MonAn("Cơm tấm sườn bì chả", 35_000,"Cơm tấm sườn bì chả siêu bánh cuốn",R.drawable.sabichuong));
         MonAnAdapter adapter = new MonAnAdapter(dsMonAn,this);
         lvDsMonAn.setAdapter(adapter);
 

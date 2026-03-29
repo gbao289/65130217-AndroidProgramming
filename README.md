@@ -27,22 +27,32 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 * LinearLayout
 * ConstraintLayout
 * Thiết kế giao diện đơn giản
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/BTH3_LinearLayout/app/src/main/res/layout/activity_main.xml)
+* ![alt text](image-1.png)
 
 ### Bài tập 3: Xử lý sự kiện
 
 * Button click
 * EditText input
 * Toast message
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/BaiTH5_XuLySuKien/app/src/main/java/com/example/appconglinearlayout/MainActivity.java)
+* ![alt text](image-2.png)
 
 ### Bài tập 4: Ứng dụng Calculator
 
 * Xây dựng app tính toán cơ bản
-
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/AppCongLinearLayout/app/src/main/java/com/example/appconglinearlayout/MainActivity.java)
+* ![alt text](image-2.png)
 ### Bài tập 5: ListView
 
 * Hiển thị danh sách
 * Custom Adapter
-
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/BaiTh7_ListView/app/src/main/java/giabao/baith7_listview/MainActivity.java)
+* ![alt text](image-3.png)
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/BaiTH7_dsmonan/app/src/main/java/bao/myapplication/MainActivity.java)
+* ![alt text](image-4.png)
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/blob/main/BaiTH8_TuyChinhLV/app/src/main/java/bao/myapplication/MainActivity.java)
+* ![alt text](image-5.png)
 ### Bài tập 6: Recycler View
 
 * Hiển thị danh sách
