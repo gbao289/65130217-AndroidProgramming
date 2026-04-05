@@ -61,10 +61,10 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 * ![alt text](/Images/image-6.png)
 ### Bài tập 7: Bottom NavBar
 
-* Hiển thị danh sách
-* Custom Adapter
-* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/tree/main/BaiTH9_RecyclerView/app/src/main/java/bao/baith9_recyclerview)
-* ![alt text](/Images/image-6.png)
+* App đọc báo tổng hợp có phân chia theo danh mục các bài báo
+* 
+* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/tree/main/BottomBar)
+![alt text](/Images/img7.jpg)
 ---
 
 ## Công nghệ sử dụng
