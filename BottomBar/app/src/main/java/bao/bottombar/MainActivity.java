@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
     public void changeCategory(String url) {
         homeFragment.setRssUrl(url);
 
-        // tự chuyển về Home luôn (giống app thật)
+
         loadFragment(homeFragment);
     }
 }
