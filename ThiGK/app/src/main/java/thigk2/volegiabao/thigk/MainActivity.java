@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
             if (itemId == R.id.nav_tinhtoan) {
                 selectedFragment = new ChucNang1Fragment();
-            } else if (itemId == R.id.nav_search) {
+            } else if (itemId == R.id.nav_danhmuc) {
                 selectedFragment = new ChucNang2Fragment();
             } else if (itemId == R.id.nav_dulich) {
                 selectedFragment = new ChucNang3Fragment();

@@ -78,7 +78,7 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 
 * App đọc báo tổng hợp có phân chia theo danh mục các bài báo
 * 
-* [Chi tiết bài tập](https://github.com/gbao289/65130217-AndroidProgramming/tree/main/BottomBar)
+* [Chi tiết bài tập]()
 * <p align="center">
   <img src="/Images/img7.jpg" width="250"/>
   <img src="/Images/img8.jpg" width="250"/>
