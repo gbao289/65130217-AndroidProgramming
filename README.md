@@ -16,6 +16,19 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 
 ## Nội dung thực hành
 
+### Bài tập 7: Kiểm tra giữa kì
+
+* Bài thi giữa kì
+* 
+* [Chi tiết bài tập]()
+* <p align="center">
+  <img src="/Images/tinhtoan.jpg" width="250"/>
+  <img src="/Images/danhmucthanhpho.jpg" width="250"/>
+  <img src="/Images/diemdulich.jpg" width="250"/>
+  <img src="/Images/thongtincanhan.jpg" width="250"/>
+</p>
+---
+
 ### Bài tập 1: Làm quen Android Studio
 
 * Tạo project đầu tiên
@@ -74,20 +87,6 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 </p>
 ---
 
-### Bài tập 7: Kiểm tra giữa kì
-
-* App đọc báo tổng hợp có phân chia theo danh mục các bài báo
-* 
-* [Chi tiết bài tập]()
-* <p align="center">
-  <img src="/Images/img7.jpg" width="250"/>
-  <img src="/Images/img8.jpg" width="250"/>
-  <img src="/Images/img9.jpg" width="250"/>
-  <img src="/Images/img10.jpg" width="250"/>
-  <img src="/Images/img11.jpg" width="250"/>
-  <img src="/Images/img12.jpg" width="250"/>
-</p>
----
 
 ## Công nghệ sử dụng
 

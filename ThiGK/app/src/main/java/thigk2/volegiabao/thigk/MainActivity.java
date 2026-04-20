@@ -1,7 +1,5 @@
 package thigk2.volegiabao.thigk;
 
-import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -19,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         BottomNavigationView bottomNav = findViewById(R.id.bottomNavigationView);
 
-
+        // Load fragment mặc định (Chức năng 1)
         if (savedInstanceState == null) {
             loadFragment(new ChucNang1Fragment());
         }
@@ -30,13 +28,12 @@ public class MainActivity extends AppCompatActivity {
 
             if (itemId == R.id.nav_tinhtoan) {
                 selectedFragment = new ChucNang1Fragment();
-            } else if (itemId == R.id.nav_danhmuc) {
+            } else if (itemId == R.id.nav_danhmuc) { // Đảm bảo ID này khớp với menu
                 selectedFragment = new ChucNang2Fragment();
             } else if (itemId == R.id.nav_dulich) {
                 selectedFragment = new ChucNang3Fragment();
             } else if (itemId == R.id.nav_profile) {
                 selectedFragment = new ChucNang4Fragment();
-                return true;
             }
 
             if (selectedFragment != null) {
