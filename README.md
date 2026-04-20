@@ -20,12 +20,12 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 
 * Bài thi giữa kì
 * 
-* [Chi tiết bài tập]()
+*
 * <p align="center">
-  <img src="/Images/tinhtoan.jpg" width="250"/>
-  <img src="/Images/danhmucthanhpho.jpg" width="250"/>
-  <img src="/Images/diemdulich.jpg" width="250"/>
-  <img src="/Images/thongtincanhan.jpg" width="250"/>
+  <img src="/Images/tinhtoan.png" width="250"/>
+  <img src="/Images/danhmucthanhpho.png" width="250"/>
+  <img src="/Images/diemdulich.png" width="250"/>
+  <img src="/Images/thongtincanhan.png" width="250"/>
 </p>
 ---
 
