@@ -23,9 +23,12 @@ Repository này dùng để lưu trữ các bài tập và nội dung học tậ
 *
 * <p align="center">
   <img src="/Images/tinhtoan.png" width="250"/>
+  <img src="/Images/chuvi.png" width="250"/>
+  <img src="/Images/dientich.png" width="250"/>
   <img src="/Images/danhmucthanhpho.png" width="250"/>
   <img src="/Images/diemdulich.png" width="250"/>
   <img src="/Images/thongtincanhan.png" width="250"/>
+  
 </p>
 ---
 
